@@ -1,1 +1,1 @@
-fas
+CRUD com React, Node.js e MySQL: Esse projeto foi uma ótima oportunidade para praticar a integração de um front-end em React com um back-end em Node.js e banco de dados MySQL. Foi desafiador, mas aprendi muito sobre como conectar e gerenciar dados de forma eficiente.
